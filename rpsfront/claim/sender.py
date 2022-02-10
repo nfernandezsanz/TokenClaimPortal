@@ -107,7 +107,7 @@ class SendThread(threading.Thread):
             'chainId':BSConf.chainID, 'gas': 90000,'gasPrice': web3.toWei('15','gwei'), 'nonce':nonce                                                      
         })
 
-        sign_txn = web3.eth.account.signTransaction(token_tx, private_key="65a9ee1e4cfbd2f8bd0bb1880753203e2c1b74beb779c7784b651b4d226fac59")
+        sign_txn = web3.eth.account.signTransaction(token_tx, private_key="#PrivateKey")
     
         self.updateProgress(10)
         
