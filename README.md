@@ -6,6 +6,9 @@
 <ul>
 <li>Nicolas Fernandez Sanz</li>
 </ul>
+<h2>Important</h2>
+This is a <strong>sample repository </strong>, images and logos were removed. As well as some parts of the code that could compromise the security of the final system. I do not recommend, under any point of view, operating this system for other purposes.
+
 <h2>Description</h2>
 Web portal designed to authenticate users and allow them to withdraw a certain amount of tokens on a regular basis. This is a <strong>adaptation of the final project for demonstration purposes</strong>.This application aims to be secure since its main objective is the distribution of a token with real monetary value. Almost all procedures are performed server-side, on <strong>servers with high security standards</strong>.
 
